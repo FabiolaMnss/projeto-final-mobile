@@ -11,7 +11,7 @@ export default function Detail() {
       <Image style={styles.image} source={LogoImg} />
 
       <View style={styles.container}>
-        <Text style={styles.title}>Faça seu login</Text>
+        <Text style={styles.title}>Faça seu login!</Text>
 
         <SafeAreaView>
           <View style={styles.inputContainer}>
